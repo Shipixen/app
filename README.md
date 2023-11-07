@@ -1,8 +1,10 @@
 <div align="center">
 
+<h1>
 <a href="https://shipixen.com" target="_blank">
   <img height="120px" src="https://user-images.githubusercontent.com/1515742/281076422-8c4a9926-2885-4786-a69a-d79ab0c8dc5c.png" alt="Shipixen Logo" />
 </a>
+</h1>
 
 </div>
 
