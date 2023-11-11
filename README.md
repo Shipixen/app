@@ -13,5 +13,26 @@ Shipixen an app to generate customized boilerplates for your product. Or any web
 [shipixen.com](https://shipixen.com)
 
 <a href="https://shipixen.com" target="_blank">
-  <img src="https://user-images.githubusercontent.com/1515742/281077548-57b24773-3c2a-4e89-b088-cc3945d7037b.png" alt="Shipixen Logo" />
+  <img src="https://user-images.githubusercontent.com/1515742/282265111-dbd3cd48-2cdf-4706-a028-109c9e7e7481.png" alt="Shipixen: build a pre-configured boilerplate in minute" />
 </a>
+
+<a href="https://shipixen.com" target="_blank">
+  <img src="https://user-images.githubusercontent.com/1515742/282265114-5f752c47-ac4f-4529-bb57-83c96dc8362e.png" alt="Shipixen makes building a landing page with the latest technologies easy" />
+</a>
+
+<a href="https://shipixen.com" target="_blank">
+  <img src="https://user-images.githubusercontent.com/1515742/282265115-3f3e5f49-5ad9-4d65-be32-8b6247172f9a.png" alt="Shipixen has: blog, SEO tags, RSS, sitemap and a lot more" />
+</a>
+
+<a href="https://shipixen.com" target="_blank">
+  <img src="https://user-images.githubusercontent.com/1515742/282265116-f8f24b46-3c4b-46ad-b21f-642bbfa27477.png" alt="Shipixen allows you to deploy your generated boilerplate to vercel in 1 click" />
+</a>
+
+<a href="https://shipixen.com" target="_blank">
+  <img src="https://user-images.githubusercontent.com/1515742/282265118-bd786d47-d64b-44fa-ba60-649483e93bdf.png" alt="Shipixen allows you to deploy your generated boilerplate to vercel in 1 click" />
+</a>
+
+<a href="https://shipixen.com" target="_blank">
+  <img src="https://user-images.githubusercontent.com/1515742/282265119-aa57457e-00bf-4bc9-8039-b4f11482686c.png" alt="Save tens to houndreds of hours by building your boilerplate with Shipixen today" />
+</a>
+
