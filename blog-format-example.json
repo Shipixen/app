@@ -1,0 +1,124 @@
+{
+  "data": {
+    "posts": [
+      {
+        "id": "6567879639adeb00016d832c",
+        "uuid": "4b1a44d9-1df6-4700-86c3-369cd24f4a1b",
+        "title": "Hey now",
+        "slug": "hey-now",
+        "markdown": "## Basics\n\n### Creating a post\n\nAdding an article to the blog is as simple as creating a Markdown (mdx file) in the `data` directory. The file name is used as the slug for the article.\n\nAfter you created the article, you should configure the frontmatter and then you're off to the races.\n\nThe frontmatter of the file is used to populate the article's metadata, such as title, summary or images.",
+        "feature_image": "https://dan-publishing-inc.ghost.io/content/images/2023/11/business_jack-elon_RTS2OA71-2408171977.jpg",
+        "created_at": "2023-11-29T18:48:54.000Z",
+        "updated_at": "2023-12-03T21:17:51.000Z",
+        "published_at": "2023-11-29T18:52:48.000Z"
+      },
+      {
+        "id": "656789a739adeb00016d8353",
+        "uuid": "d2500b33-d3f9-4789-a42d-18c99676afc5",
+        "title": "Authoring is cool",
+        "slug": "authoring-is-cool",
+        "mobiledoc": null,
+        "markdown": "See how to create a simple responsive image gallery using MDX and Next.js.\n\nFeatures images served using `next/image` component. The locally stored images are located in a folder with the following path: `/static/images/[filename].jpg`\n\nSince we are using mdx, we can create a simple responsive flexbox grid to display our images with a few tailwind css classes.\n\n---\n\n# Gallery\n\n![Image one](https://picsum.photos/800/400?random=1)\n\n![Image one](https://picsum.photos/800/400?random=2)\n\n![Image one](https://picsum.photos/800/400?random=3)\n\n![Image one](https://picsum.photos/800/400?random=4)\n\n# Implementation\n\n```js\n<div className=\\\"-mx-2 flex flex-wrap overflow-hidden xl:-mx-2\\\">\n  <div className=\\\"my-1 w-full overflow-hidden px-2 xl:my-1 xl:w-1/2 xl:px-2\\\">\n    ![Image one](https://picsum.photos/800/400?random=1)\n  </div>\n  <div className=\\\"my-1 w-full overflow-hidden px-2 xl:my-1 xl:w-1/2 xl:px-2\\\">\n    ![Image two](https://picsum.photos/800/400?random=2)\n  </div>\n  <div className=\\\"my-1 w-full overflow-hidden px-2 xl:my-1 xl:w-1/2 xl:px-2\\\">\n    ![Image three](https://picsum.photos/800/400?random=3)\n  </div>\n  <div className=\\\"my-1 w-full overflow-hidden px-2 xl:my-1 xl:w-1/2 xl:px-2\\\">\n    ![Image four](https://picsum.photos/800/400?random=4)\n  </div>\n</div>\n```\n",
+        "feature_image": null,
+        "created_at": "2023-11-29T18:57:43.000Z",
+        "updated_at": "2023-12-03T19:35:39.000Z",
+        "published_at": "2023-11-29T18:58:39.000Z"
+      }
+    ],
+    "posts_authors": [
+      {
+        "id": "6567879739adeb00016d832d",
+        "post_id": "6567879639adeb00016d832c",
+        "author_id": "1",
+        "sort_order": 0
+      },
+      {
+        "id": "656789a739adeb00016d8354",
+        "post_id": "656789a739adeb00016d8353",
+        "author_id": "6567898239adeb00016d8350",
+        "sort_order": 0
+      }
+    ],
+    "posts_meta": [
+      {
+        "id": "6567888c39adeb00016d8348",
+        "post_id": "6567879639adeb00016d832c",
+        "meta_title": "Coming soon!",
+        "meta_description": "Hey Googlers, we're coming soon."
+      }
+    ],
+    "posts_tags": [
+      {
+        "id": "6567888039adeb00016d833c",
+        "post_id": "6567879639adeb00016d832c",
+        "tag_id": "6567888039adeb00016d8339",
+        "sort_order": 0
+      },
+      {
+        "id": "6567888039adeb00016d833d",
+        "post_id": "6567879639adeb00016d832c",
+        "tag_id": "6567888039adeb00016d833a",
+        "sort_order": 1
+      },
+      {
+        "id": "6567888039adeb00016d833e",
+        "post_id": "6567879639adeb00016d832c",
+        "tag_id": "6567888039adeb00016d833b",
+        "sort_order": 2
+      },
+      {
+        "id": "656789df39adeb00016d835c",
+        "post_id": "656789a739adeb00016d8353",
+        "tag_id": "6567888039adeb00016d833a",
+        "sort_order": 0
+      },
+      {
+        "id": "656789df39adeb00016d835d",
+        "post_id": "656789a739adeb00016d8353",
+        "tag_id": "656789df39adeb00016d835b",
+        "sort_order": 1
+      }
+    ],
+    "tags": [
+      {
+        "id": "6567888039adeb00016d8339",
+        "name": "new",
+        "slug": "new"
+      },
+      {
+        "id": "6567888039adeb00016d833a",
+        "name": "post",
+        "slug": "post"
+      },
+      {
+        "id": "6567888039adeb00016d833b",
+        "name": "to-publish",
+        "slug": "to-publish"
+      },
+      {
+        "id": "656789df39adeb00016d835b",
+        "name": "interesting",
+        "slug": "interesting"
+      }
+    ],
+    "users": [
+      {
+        "id": "1",
+        "name": "Dan",
+        "slug": "dan",
+        "profile_image": null,
+        "bio": null,
+        "website": null
+      },
+      {
+        "id": "6567898239adeb00016d8350",
+        "name": "Steven Barkings",
+        "slug": "steven-bnark",
+        "profile_image": "https://dan-publishing-inc.ghost.io/content/images/2023/11/geek.png",
+        "cover_image": "https://dan-publishing-inc.ghost.io/content/images/2023/11/3.png",
+        "bio": "World recognized author",
+        "website": "https://hey.com"
+      }
+    ]
+  }
+}
