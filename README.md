@@ -1,6 +1,7 @@
-> 🆕 New! Get an entire website from a prompt. Including design! Try it out at [pageai.pro](https://pageai.pro) 🚀
 
 <div align="center">
+
+> 🆕 New! Get an entire website from a prompt. Including design! Try it out at [pageai.pro](https://pageai.pro) 🚀
 
 <h1>
 <a href="https://shipixen.com" target="_blank">
